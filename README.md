@@ -16,10 +16,16 @@
      :: This is a word based neural language model. The LSTM model
      is trained using sequences of words from a data source to predict
      the next possible word in the sequence. 
-* [CNN](#usage)
-
 
 
 
 ## Installation
 
+```buildoutcfg
+git clone https://github.com/pseudoPixels/machine_learning_diary.git
+cd machine_learning_diary
+conda create -n python3.6 python=3.6
+conda activate python3.6
+pip install -r requirements.txt
+jupyter notebook
+```
