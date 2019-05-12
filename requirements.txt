@@ -1,7 +1,9 @@
+absl-py==0.7.1
 alabaster==0.7.12
 anaconda-client==1.7.2
 anaconda-project==0.8.2
 asn1crypto==0.24.0
+astor==0.7.1
 astroid==2.2.5
 astropy==3.1.2
 atomicwrites==1.3.0
@@ -38,9 +40,11 @@ entrypoints==0.3
 et-xmlfile==1.0.1
 fastcache==1.0.2
 Flask==1.0.2
+gast==0.2.2
 gevent==1.4.0
 gmpy2==2.0.8
 greenlet==0.4.15
+grpcio==1.20.1
 h5py==2.9.0
 heapdict==1.0.0
 html5lib==1.0.1
@@ -65,12 +69,16 @@ jupyter-console==6.0.0
 jupyter-core==4.4.0
 jupyterlab==0.35.4
 jupyterlab-server==0.2.0
+Keras==2.2.4
+Keras-Applications==1.0.7
+Keras-Preprocessing==1.0.9
 keyring==18.0.0
 kiwisolver==1.0.1
 lazy-object-proxy==1.3.1
 llvmlite==0.28.0
 locket==0.2.0
 lxml==4.3.2
+Markdown==3.1
 MarkupSafe==1.1.1
 matplotlib==3.0.3
 mccabe==0.6.1
@@ -89,7 +97,7 @@ nose==1.3.7
 notebook==5.7.8
 numba==0.43.1
 numexpr==2.6.9
-numpy==1.16.2
+numpy==1.16.3
 numpydoc==0.8.0
 olefile==0.46
 openpyxl==2.6.1
@@ -109,6 +117,7 @@ pluggy==0.9.0
 ply==3.11
 prometheus-client==0.6.0
 prompt-toolkit==2.0.9
+protobuf==3.7.1
 psutil==5.6.1
 ptyprocess==0.6.0
 py==1.8.0
@@ -165,6 +174,9 @@ statsmodels==0.9.0
 sympy==1.3
 tables==3.5.1
 tblib==1.3.2
+tensorboard==1.9.0
+tensorflow==1.9.0
+termcolor==1.1.0
 terminado==0.8.1
 testpath==0.4.2
 toolz==0.9.0
@@ -175,7 +187,7 @@ unicodecsv==0.14.1
 urllib3==1.24.1
 wcwidth==0.1.7
 webencodings==0.5.1
-Werkzeug==0.14.1
+Werkzeug==0.15.2
 widgetsnbextension==3.4.2
 wrapt==1.11.1
 wurlitzer==1.0.2
