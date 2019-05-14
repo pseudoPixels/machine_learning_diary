@@ -8,11 +8,11 @@
 ## Table of Contents
 
 * [Language Models](#usage)
-  * [Character Based Neural Language Model using LSTM](https://github.com/pseudoPixels/machine_learning_diary/blob/master/notebooks/character_based_neural_language_model/)
+  * [Character Based Neural Language Model using LSTM](https://github.com/pseudoPixels/machine_learning_diary/blob/master/notebooks/character_based_neural_language_model/character_based_neural_language_model.ipynb)
      :: This is a character based neural language model. The LSTM model
      is trained using sequences of characters from a data source to predict
      the next possible character in the sequence. 
-  * [Text Generative Model using LSTM](https://github.com/pseudoPixels/machine_learning_diary/blob/master/notebooks/character_based_neural_language_model/)
+  * [Text Generative Model using LSTM](https://github.com/pseudoPixels/machine_learning_diary/blob/master/notebooks/character_based_neural_language_model/character_based_neural_language_model.ipynb)
      :: This is a word based neural language model. The LSTM model
      is trained using sequences of words from a data source to predict
      the next possible word in the sequence. 
