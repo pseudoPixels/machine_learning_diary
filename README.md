@@ -10,6 +10,14 @@
 
 ## Table of Contents
 
+* [Tools or Concepts](#tools)
+  * [LSTM Autoencoders with Keras](https://github.com/pseudoPixels/machine_learning_diary/blob/master/notebooks/character_based_neural_language_model/LSTM_Autoencoders_with_Keras.ipynb) 
+     :: An Autoencoder is a type of Artificial Neural Network model that learns a 
+     compressed representation of input (i.e., [Wiki](https://en.wikipedia.org/wiki/Autoencoder)). 
+     LSTM autoencoder is an implementation for compressed sequence representation 
+     for Encoder-Decoder LSTM. The Encoder part can compress the original input sequence 
+     to a fixed length, which can be used as feature vector for other supervised learning 
+     algorithms or even data visualization.
 * [Language Models](#usage)
   * [Character Based Neural Language Model using LSTM RNN](https://github.com/pseudoPixels/machine_learning_diary/blob/master/notebooks/character_based_neural_language_model/character_based_neural_language_model.ipynb)
      :: This is a character based neural language model. The LSTM model

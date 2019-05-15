@@ -25,8 +25,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="418">
-                <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+              <first_editor relative-caret-position="152">
+                <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
               </first_editor>
               <second_editor />
             </state>
@@ -37,7 +37,7 @@
         <entry file="file://$PROJECT_DIR$/notebooks/text_generative_model_using_LSTM_RNN/dataset/wonderland.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="468">
-              <caret line="3314" column="31" lean-forward="true" selection-start-line="3314" selection-start-column="31" selection-end-line="3314" selection-end-column="31" />
+              <caret line="3314" column="31" selection-start-line="3314" selection-start-column="31" selection-end-line="3314" selection-end-column="31" />
             </state>
           </provider>
         </entry>
@@ -92,14 +92,7 @@
               <item name="machine_learning_diary" type="b2602c69:ProjectViewProjectNode" />
               <item name="machine_learning_diary" type="462c0819:PsiDirectoryNode" />
               <item name="notebooks" type="462c0819:PsiDirectoryNode" />
-              <item name="text_generative_model_using_LSTM_RNN" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="machine_learning_diary" type="b2602c69:ProjectViewProjectNode" />
-              <item name="machine_learning_diary" type="462c0819:PsiDirectoryNode" />
-              <item name="notebooks" type="462c0819:PsiDirectoryNode" />
-              <item name="text_generative_model_using_LSTM_RNN" type="462c0819:PsiDirectoryNode" />
-              <item name="dataset" type="462c0819:PsiDirectoryNode" />
+              <item name="LSTM_Autoencoders_with_Keras" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -152,7 +145,7 @@
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14480874" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.044262294" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Python Console" />
@@ -208,15 +201,15 @@
     <entry file="file://$PROJECT_DIR$/notebooks/text_generative_model_using_LSTM_RNN/dataset/wonderland.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="468">
-          <caret line="3314" column="31" lean-forward="true" selection-start-line="3314" selection-start-column="31" selection-end-line="3314" selection-end-column="31" />
+          <caret line="3314" column="31" selection-start-line="3314" selection-start-column="31" selection-end-line="3314" selection-end-column="31" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="418">
-            <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+          <first_editor relative-caret-position="152">
+            <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
           </first_editor>
           <second_editor />
         </state>
