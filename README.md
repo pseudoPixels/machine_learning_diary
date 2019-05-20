@@ -11,7 +11,7 @@
 ## Table of Contents
 
 * [Tools or Concepts](#tools)
-  * [LSTM Autoencoders with Keras](https://github.com/pseudoPixels/machine_learning_diary/blob/master/notebooks/character_based_neural_language_model/LSTM_Autoencoders_with_Keras.ipynb) 
+  * [LSTM Autoencoders with Keras](https://github.com/pseudoPixels/machine_learning_diary/blob/master/notebooks/LSTM_Autoencoders_with_Keras/LSTM_Autoencoders_with_Keras.ipynb) 
      :: An Autoencoder is a type of Artificial Neural Network model that learns a 
      compressed representation of input (i.e., [Wiki](https://en.wikipedia.org/wiki/Autoencoder)). 
      LSTM autoencoder is an implementation for compressed sequence representation 
