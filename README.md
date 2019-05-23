@@ -27,8 +27,9 @@
      :: This is a word based neural language model. The LSTM model
      is trained using sequences of words from a data source to predict
      the next possible word in the sequence. 
-
-
+* [Time Series Prediction](#usage)
+  * [Time Series Forecasting with LSTM Autoencoders](.ipynb)
+     :: This is a simple predictor using LSTM Autoencoders.
 
 ## Installation
 
