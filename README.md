@@ -28,7 +28,7 @@
      is trained using sequences of words from a data source to predict
      the next possible word in the sequence. 
 * [Time Series Prediction](#usage)
-  * [Time Series Forecasting with LSTM Autoencoders](.ipynb)
+  * [Time Series Forecasting with LSTM Autoencoders](https://github.com/pseudoPixels/machine_learning_diary/blob/master/notebooks/time_series_forecasting_using_LSTM_Autoencoder/time_series_forecasting_using_LSTM_Autoencoder.ipynb)
      :: This is a simple predictor using LSTM Autoencoders.
 
 ## Installation
