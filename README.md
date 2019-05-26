@@ -30,7 +30,7 @@
      the next possible word in the sequence. 
 * [Time Series Prediction](#usage)
   * [Time Series Forecasting with LSTM Autoencoders](https://github.com/pseudoPixels/machine_learning_diary/blob/master/notebooks/time_series_forecasting_using_LSTM_Autoencoder/time_series_forecasting_using_LSTM_Autoencoder.ipynb)
-     :: This is a simple predictor using LSTM Autoencoders.
+     :: Time Series Forecasting on the `Shampoo Sale Dataset`. The dataset contains information of monthy shampoo sales for 36 consecutive months, i.e., time series. We train on the first 24 months using LSTM. We then evaluate the model for shampoo sales forecasting on the last 12 test months of the dataset.
 
 ## Installation
 
