@@ -19,7 +19,7 @@
      for Encoder-Decoder LSTM. The Encoder part can compress the original input sequence 
      to a fixed length, which can be used as feature vector for other supervised learning 
      algorithms or even data visualization.
-* [Language Models](#usage)
+* [Sequence To Sequence Learning & Language Models](#usage)
   * [Character Based Neural Language Model using LSTM RNN](https://github.com/pseudoPixels/machine_learning_diary/blob/master/notebooks/character_based_neural_language_model/character_based_neural_language_model.ipynb)
      :: This is a character based neural language model. The LSTM model
      is trained using sequences of characters from a data source to predict
