@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="48cbfaea-a297-480a-8a3f-6be8b5bccb88" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/mathematical_addition_using_RNN/.ipynb_checkpoints/mathematical_addition_using_RNN-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/mathematical_addition_using_RNN/.ipynb_checkpoints/mathematical_addition_using_RNN-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/mathematical_addition_using_RNN/mathematical_addition_using_RNN.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/mathematical_addition_using_RNN/mathematical_addition_using_RNN.ipynb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,8 +18,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="589">
-                <caret line="31" column="39" selection-start-line="31" selection-start-column="39" selection-end-line="31" selection-end-column="39" />
+              <first_editor relative-caret-position="456">
+                <caret line="24" column="29" lean-forward="true" selection-start-line="24" selection-start-column="29" selection-end-line="24" selection-end-column="29" />
               </first_editor>
               <second_editor />
             </state>
@@ -127,7 +129,7 @@
     <frame x="67" y="25" width="1853" height="1055" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.104371585" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.06557377" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -201,8 +203,8 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="589">
-            <caret line="31" column="39" selection-start-line="31" selection-start-column="39" selection-end-line="31" selection-end-column="39" />
+          <first_editor relative-caret-position="456">
+            <caret line="24" column="29" lean-forward="true" selection-start-line="24" selection-start-column="29" selection-end-line="24" selection-end-column="29" />
           </first_editor>
           <second_editor />
         </state>
