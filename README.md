@@ -27,7 +27,9 @@
   * [Text Generative Model using LSTM RNN](https://github.com/pseudoPixels/machine_learning_diary/blob/master/notebooks/character_based_neural_language_model/character_based_neural_language_model.ipynb)
      :: This is a word based neural language model. The LSTM model
      is trained using sequences of words from a data source to predict
-     the next possible word in the sequence. 
+     the next possible word in the sequence.
+  * [Mathematical Addition using RNN](https://github.com/pseudoPixels/machine_learning_diary/blob/master/notebooks/mathematical_addition_using_RNN/mathematical_addition_using_RNN.ipynb)  :: RNN model that learns
+  to permporform mathematical addition.
 * [Time Series Prediction](#usage)
   * [Time Series Forecasting with LSTM Autoencoders](https://github.com/pseudoPixels/machine_learning_diary/blob/master/notebooks/time_series_forecasting_using_LSTM_Autoencoder/time_series_forecasting_using_LSTM_Autoencoder.ipynb)
      :: Time Series Forecasting on the `Shampoo Sale Dataset`. The dataset contains information of monthy shampoo sales for 36 consecutive months, i.e., time series. We train on the first 24 months using LSTM. We then evaluate the model for shampoo sales forecasting on the last 12 test months of the dataset.
