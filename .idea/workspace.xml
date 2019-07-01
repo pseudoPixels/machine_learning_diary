@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="48cbfaea-a297-480a-8a3f-6be8b5bccb88" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notebooks/mathematical_addition_using_RNN/.ipynb_checkpoints/mathematical_addition_using_RNN-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/mathematical_addition_using_RNN/.ipynb_checkpoints/mathematical_addition_using_RNN-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notebooks/mathematical_addition_using_RNN/mathematical_addition_using_RNN.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/mathematical_addition_using_RNN/mathematical_addition_using_RNN.ipynb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,13 +13,13 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="456">
-                <caret line="24" column="29" lean-forward="true" selection-start-line="24" selection-start-column="29" selection-end-line="24" selection-end-column="29" />
+                <caret line="24" column="75" lean-forward="true" selection-start-line="24" selection-start-column="75" selection-end-line="24" selection-end-column="75" />
               </first_editor>
               <second_editor />
             </state>
@@ -32,6 +32,7 @@
     <findStrings>
       <find>alabaster</find>
       <find>THE END</find>
+      <find>guni</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -45,13 +46,14 @@
         <option value="$PROJECT_DIR$/notebooks/character_based_neural_language_model/dataset/ed_sheraan.txt" />
         <option value="$PROJECT_DIR$/notebooks/text_generative_model_using_LSTM_RNN/dataset/wonderland.txt" />
         <option value="$PROJECT_DIR$/notebooks/time_series_forecasting_using_LSTM_Autoencoder/dataset/shampoo-sales.csv" />
+        <option value="$PROJECT_DIR$/notebooks/seq2seq_chatbot_using_LSTM/dataset/anon_dataset.txt" />
         <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="189" />
-    <option name="y" value="198" />
+    <option name="x" value="295" />
+    <option name="y" value="80" />
     <option name="width" value="1400" />
     <option name="height" value="1000" />
   </component>
@@ -61,6 +63,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -77,13 +80,12 @@
               <item name="machine_learning_diary" type="b2602c69:ProjectViewProjectNode" />
               <item name="machine_learning_diary" type="462c0819:PsiDirectoryNode" />
               <item name="notebooks" type="462c0819:PsiDirectoryNode" />
-              <item name="mathematical_addition_using_RNN" type="462c0819:PsiDirectoryNode" />
+              <item name="Titanic" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -129,7 +131,7 @@
     <frame x="67" y="25" width="1853" height="1055" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.06557377" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.10382514" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -176,9 +178,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../ML_CloneValidationFramework/validateClones.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/../ML_CloneValidationFramework/validateClones.py" />
     <entry file="file://$PROJECT_DIR$/notebooks/text_generative_model_using_LSTM_RNN/dataset/ed_sheraan.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="266">
@@ -200,11 +200,21 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/notebooks/seq2seq_chatbot_using_LSTM/dataset/anon_dataset.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="41" lean-forward="true" selection-start-line="13" selection-start-column="41" selection-end-line="13" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/notebooks/Titanic/Titanic.ipynb">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="456">
-            <caret line="24" column="29" lean-forward="true" selection-start-line="24" selection-start-column="29" selection-end-line="24" selection-end-column="29" />
+            <caret line="24" column="75" lean-forward="true" selection-start-line="24" selection-start-column="75" selection-end-line="24" selection-end-column="75" />
           </first_editor>
           <second_editor />
         </state>
