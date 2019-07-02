@@ -34,8 +34,12 @@
   * [Time Series Forecasting with LSTM Autoencoders](https://github.com/pseudoPixels/machine_learning_diary/blob/master/notebooks/time_series_forecasting_using_LSTM_Autoencoder/time_series_forecasting_using_LSTM_Autoencoder.ipynb)
      :: Time Series Forecasting on the `Shampoo Sale Dataset`. The dataset contains information of monthy shampoo sales for 36 consecutive months, i.e., time series. We train on the first 24 months using LSTM. We then evaluate the model for shampoo sales forecasting on the last 12 test months of the dataset.
 
-* [Kaggle Competition](#usage)
-    * [Titanic Passenger Survival Prediction](https://github.com/pseudoPixels/machine_learning_diary/blob/master/notebooks/Titanic/Titanic.ipynb)
+* [Kaggle Competitions](#usage)
+    * [Titanic Passenger Survival Prediction](https://github.com/pseudoPixels/machine_learning_diary/blob/master/notebooks/Titanic/Titanic.ipynb) :: In this challenge, we need to complete the analysis of what sorts of people were likely to survive. Applying the tools of machine learning to predict which passengers survived the tragedy. The challenge
+    description can be found [here in Kaggle](https://www.kaggle.com/c/titanic/overview)
+
+* 
+
 
 ## Installation
 
