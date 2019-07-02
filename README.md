@@ -50,6 +50,7 @@ description can be found [here in Kaggle](https://www.kaggle.com/c/titanic/overv
 
 
 ## Installation
+Use the following commands to install the conda virtual environment for installing all the requirements and notebooks:
 ```buildoutcfg
 git clone https://github.com/pseudoPixels/machine_learning_diary.git
 cd machine_learning_diary
