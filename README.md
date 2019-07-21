@@ -1,4 +1,4 @@
-# ML Playground
+# Machine Learning Playground
 [![Sponsors on Open Collective](https://img.shields.io/badge/ML-Tensorflow-orange.svg?style=flat-square)](#sponsors)
 [![Sponsors on Open Collective](https://img.shields.io/badge/ML-scikit--learn-blue.svg?style=flat-square)](#sponsors)
 [![Sponsors on Open Collective](https://img.shields.io/badge/ML-Keras-lightgrey.svg?style=flat-square)](#sponsors)
