@@ -42,6 +42,11 @@
 * [Titanic Passenger Survival Prediction](https://github.com/pseudoPixels/machine_learning_diary/blob/master/notebooks/Titanic/Titanic.ipynb) :: In this challenge, we need to complete the analysis of what sorts of people were likely to survive. Applying the tools of machine learning to predict which passengers survived the tragedy. The challenge
 description can be found [here in Kaggle](https://www.kaggle.com/c/titanic/overview)
 
+* [House Price Prediction](https://github.com/pseudoPixels/machine_learning_diary/blob/master/notebooks/Kaggle_HousePricePrediction/KaggleHousePricePrediction.ipynb) :: Developing predictive machine learning model for predicting
+house prices. The detailed description of the machine learning problem can be found [here](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)
+
+
+
 ### 5.0 Extra
 * [Visualizations]()
     * [Seaborn Visualization](https://github.com/pseudoPixels/machine_learning_diary/blob/master/notebooks/Visualizations/SeabornVizualization.ipynb) :: Some useful and frequently used Seaborn Visualizations.
