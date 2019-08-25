@@ -19,7 +19,7 @@ bleach==3.1.0
 bokeh==1.0.4
 boto==2.49.0
 Bottleneck==1.2.1
-certifi==2019.3.9
+certifi==2019.6.16
 cffi==1.12.2
 chardet==3.0.4
 Click==7.0
@@ -186,6 +186,8 @@ termcolor==1.1.0
 terminado==0.8.1
 testpath==0.4.2
 toolz==0.9.0
+torch==1.2.0
+torchvision==0.4.0a0+6b959ee
 tornado==6.0.2
 tqdm==4.32.2
 traitlets==4.3.2
