@@ -23,6 +23,7 @@
 
 #### 1.2 TensorFlow
 * [Linear Model Using TensorFlow](https://github.com/pseudoPixels/machine_learning_diary/blob/master/notebooks/TensorFlow_Linear_Model/TensorFlow_Linear_Model.ipynb)
+    :: Simple Linear Model using TensorFlow.
 
 #### 1.3 PyTorch
 * [Name Classification using PyTorch]
