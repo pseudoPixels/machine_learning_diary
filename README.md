@@ -12,6 +12,7 @@
 ## Table of Contents
 
 ### 1.0 Tools or Concepts
+#### 1.1 LSTM Autoencoders
 * [LSTM Autoencoders with Keras](https://github.com/pseudoPixels/machine_learning_diary/blob/master/notebooks/LSTM_Autoencoders_with_Keras/LSTM_Autoencoders_with_Keras.ipynb) 
  :: An Autoencoder is a type of Artificial Neural Network model that learns a 
  compressed representation of input (i.e., [Wiki](https://en.wikipedia.org/wiki/Autoencoder)). 
@@ -19,6 +20,13 @@
  for Encoder-Decoder LSTM. The Encoder part can compress the original input sequence 
  to a fixed length, which can be used as feature vector for other supervised learning 
  algorithms or even data visualization.
+
+#### 1.2 TensorFlow
+* [Linear Model Using TensorFlow]
+
+#### 1.3 PyTorch
+* [Name Classification using PyTorch]
+ 
  
 ### 2.0 Sequence To Sequence Learning & Language Models
 * [Character Based Neural Language Model using LSTM RNN](https://github.com/pseudoPixels/machine_learning_diary/blob/master/notebooks/character_based_neural_language_model/character_based_neural_language_model.ipynb)
