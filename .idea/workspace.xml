@@ -4,8 +4,8 @@
     <list default="true" id="48cbfaea-a297-480a-8a3f-6be8b5bccb88" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notebooks/name_classification_with_PyTorch/.ipynb_checkpoints/name_classification_with_PyTorch-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/name_classification_with_PyTorch/.ipynb_checkpoints/name_classification_with_PyTorch-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notebooks/name_classification_with_PyTorch/name_classification_with_PyTorch.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/name_classification_with_PyTorch/name_classification_with_PyTorch.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/TensorFlow_Linear_Model/.ipynb_checkpoints/TensorFlow_Linear_Model-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/TensorFlow_Linear_Model/.ipynb_checkpoints/TensorFlow_Linear_Model-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/TensorFlow_Linear_Model/TensorFlow_Linear_Model.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/TensorFlow_Linear_Model/TensorFlow_Linear_Model.ipynb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -38,19 +38,20 @@
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/notebooks/TensorFlow_Linear_Model" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/notebooks/Visualizations" />
-      <recent name="$PROJECT_DIR$/notebooks/text_generative_model_using_LSTM/dataset" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/notebooks/Titanic/extra" />
       <recent name="$PROJECT_DIR$/notebooks/Visualizations" />
       <recent name="$PROJECT_DIR$/common" />
       <recent name="$PROJECT_DIR$/Notebooks/Character_Based_Neural_Language_Model" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/notebooks/TensorFlow_Linear_Model" />
+      <recent name="$PROJECT_DIR$/notebooks/Visualizations" />
+      <recent name="$PROJECT_DIR$/notebooks/text_generative_model_using_LSTM/dataset" />
     </key>
   </component>
   <component name="RunDashboard">
